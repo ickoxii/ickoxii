@@ -5,8 +5,7 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ickoxii&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ickoxii&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=svelte,html,css">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ickoxii&theme=vue-dark&hide_border=true&background=FFFFFF00">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ickoxii" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ickoxii&mode=weekly&hide_border=true&background=FFFFFF00" alt="GitHub Streak">
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
