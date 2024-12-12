@@ -5,13 +5,14 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ickoxii&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ickoxii&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=svelte,html,css">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ickoxii&mode=weekly&hide_border=true&background=FFFFFF00" alt="GitHub Streak">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ickoxii&theme=vue-dark&hide_border=true&background=FFFFFF00">
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/icko-iben/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ickoxii@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ickoxii@gmail.com?subject=Hello%Icko,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:icko_iben1@baylor.edu?subject=Hello%Icko,%20From%20Github"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### :wrench: What I Work On
