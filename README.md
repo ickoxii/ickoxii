@@ -23,7 +23,7 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
 
 * [Clash of Clans Info Scraper](https://github.com/ickoxii/coc-info-scraper): A tool that interacts with the Clash of Clans API to scrape game data. I wrote this project to sharpen my Java skills and as an introduction to API communication.
 * [nsh](https://github.com/ickoxii/nsh): A lightweight shell written in C to improve my C programming skills.
-* [Lox Interpreter](https://github.com/ickoxii/loxinterpreter): An interpreter written in Java utilizing a recursive descent parser for the Lox programming language. I followed Robert Nystroms book [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) to further understand how interpreters work behind the scenes.
+* [Lox Interpreter](https://github.com/ickoxii/loxinterpreter): A tree-walk interpreter written in Java for the Lox programming language. I followed Robert Nystroms book [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) to further understand how interpreters work behind the scenes.
 * Check out my [dotfiles here!](https://github.com/ickoxii/.dotfiles)
 
 ### :page_with_curl: Always Learning
