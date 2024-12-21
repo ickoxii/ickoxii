@@ -8,7 +8,7 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ickoxii&theme=vue-dark&hide_border=true&background=FFFFFF00">
 </p>
 
-### :wrench: What I Work On
+## 🧰 My Toolbox
 
 * *Specialties*: Full-stack development, APIs, and database-driven applications
 
@@ -17,6 +17,8 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,react,nextjs,java,spring,py,flask,mysql,linux,bash,regex,git,githubactions,gcp,docker&perline=6" />
   </a>
 </p>
+
+## :wrench: What I Work On
 
 ### :school: School Projects
 
