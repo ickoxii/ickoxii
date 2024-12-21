@@ -10,8 +10,13 @@ I am currently an undergraduate student at Baylor University pursuing a Bachelor
 
 ### :wrench: What I Work On
 
-* *Languages & Frameworks*: C/C++, Java, Python, Next.js, React, Flask, Spring Boot
 * *Specialties*: Full-stack development, APIs, and database-driven applications
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,react,nextjs,java,spring,py,flask,mysql,linux,bash,regex,git,githubactions,gcp,docker&perline=6" />
+  </a>
+</p>
 
 ### :school: School Projects
 
